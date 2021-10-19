@@ -1,0 +1,3 @@
+- Hi, I’m Marie
+- I’m interested in Languages, Books and Tech
+- I’m currently learning RPA
